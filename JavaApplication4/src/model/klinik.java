@@ -9,13 +9,7 @@ package model;
  *
  * @author admin
  */
-public class pasien {
-
-    private String nama;
-    private String noRekamMedis;
-    private String alamat;
-    private String tempatLahir;
-    private int TanggalLahir;
-    private int bulanLahir;
-    private int tahunlahir;
+public class klinik {
+private String idKlinik;
+private String nama;
 }
