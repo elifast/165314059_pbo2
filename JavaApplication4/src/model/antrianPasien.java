@@ -10,5 +10,9 @@ package model;
  * @author admin
  */
 public class antrianPasien {
-    
+    private int tanggalantrean;
+    private int bulanantrean;
+   private int  tahunantrean;
+   private klinik klinik; 
+            
 }
