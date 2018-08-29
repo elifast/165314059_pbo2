@@ -11,5 +11,5 @@ package model;
  */
 public class pasien {
 
-  
+  private String nama;
 }
