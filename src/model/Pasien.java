@@ -39,6 +39,10 @@ public class Pasien {
     public Pasien() {
     }
 
+    public Pasien(String puspa, String klaten, String medan, int i, int i0, int i1, String string) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     /**
      * @return the nama
      */

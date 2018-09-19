@@ -46,6 +46,7 @@ public class LatihanDialog extends JDialog implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
+        Object tambahButton = null;
         if(e.getSource()==tambahButton){
             Pasien baru = new Pasien();
             baru.setNama(namaText.getText());
